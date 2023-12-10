@@ -1,6 +1,6 @@
 # Hello there!👋
 
-#### I am Ankit Sahu 🙋🏻<200d>♂️ , a Cloud/DevOps Enthusiast, exploring different trending technologies like Web Development, Cloud Computing and Devops automation.
+#### I am Ankit Sahu 🙋🏻, a Cloud/DevOps Enthusiast, exploring different trending technologies like Web Development, Cloud Computing and DevOps automation.
 
 <hr>
 <h3 align="center">Visitor Count</h3>
