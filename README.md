@@ -64,14 +64,6 @@ Experienced in Infrastructure as Code (IaC), CI/CD automation, container orchest
 
 ---
 
-## ⌨️ WakaTime Stats
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/AnkitSahu.svg" height="170"/>
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
