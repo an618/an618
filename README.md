@@ -54,11 +54,6 @@ Experienced in Infrastructure as Code (IaC), CI/CD automation, container orchest
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=an618&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an618&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=an618&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
