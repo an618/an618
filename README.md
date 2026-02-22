@@ -21,14 +21,14 @@ I'm a **Cloud & DevOps Enthusiast** passionate about **Cloud Computing** and **D
 
 🚀 Always learning and experimenting with new technologies to build scalable and efficient solutions.
 
-<hr>
+---
+
 <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{an618}/count.svg">
-
-  ![VisitorCount](https://profile-counter.glitch.me/{an618}/count.svg)
-
-</a>
-<hr>
+<p align="center">
+  <a href="https://profile-counter.glitch.me/an618/count.svg">
+    <img src="https://profile-counter.glitch.me/an618/count.svg" alt="Visitor Count"/>
+  </a>
+</p>
 
 
 # Github Activity📊:
