@@ -1,3 +1,4 @@
+
 # Hello there!👋
 
 ### Hi there, I'm Ankit Sahu! 👋
@@ -38,6 +39,10 @@ I'm a **Cloud & DevOps Enthusiast** passionate about **Cloud Computing** and **D
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=an618&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=an618&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 # Productivity Stats📈:
