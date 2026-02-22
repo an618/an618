@@ -63,6 +63,13 @@ Experienced in Infrastructure as Code (IaC), CI/CD automation, container orchest
 </p>
 
 ---
+## ⌨️ WakaTime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=an618&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
 
 ## 📈 Contribution Activity
 
