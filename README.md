@@ -1,70 +1,100 @@
+# 👋 Hi, I'm Ankit Sahu
 
-# Hello there!👋
+## ☁️ Cloud & DevOps Engineer
 
-### Hi there, I'm Ankit Sahu! 👋
-
-I'm a **Cloud & DevOps Enthusiast** passionate about **Cloud Computing** and **DevOps Automation**.  
-
-💻 **Technologies & Cloud Expertise:**  
-
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) 
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/) 
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) 
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) 
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/) 
-[![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge)](#) 
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6368?style=for-the-badge&logo=argocd&logoColor=white)](https://argo-cd.readthedocs.io/)  
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)  
-
-🚀 Always learning and experimenting with new technologies to build scalable and efficient solutions.
+Results-driven **Cloud & DevOps Engineer** passionate about building scalable, secure, and automated cloud infrastructure.  
+Experienced in Infrastructure as Code (IaC), CI/CD automation, container orchestration, and cloud-native deployments.
 
 ---
 
-<h3 align="center">Visitor Count</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=an618&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
+## 🚀 Core Expertise
+
+- Cloud Infrastructure (AWS | GCP | Azure)
+- Infrastructure as Code (Terraform)
+- Containerization (Docker)
+- Orchestration (Kubernetes)
+- CI/CD Pipeline Automation
+- GitOps (ArgoCD)
+- Version Control & Collaboration
+- Production Deployment & Monitoring
+
+---
+
+## ☁️ Cloud Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
+---
 
-<h2 align="center">📊 GitHub Activity</h2>
+## ⚙️ DevOps & Automation Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ArgoCD-FC6368?style=for-the-badge&logo=argo&logoColor=white"/>
+</p>
+
+---
+
+## 🔧 Version Control & Collaboration
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=an618&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an618&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=an618&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an618&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=an618&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=an618&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=an618&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=an618&theme=tokyonight"/>
 </p>
 
-# Productivity Stats📈:
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=an618&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr>
-</table>
+---
 
-<details>
-  <summary> <h4 align="center"> Quotes </h4> </summary>
-
-  ## ✍ 🏻 Start Your Day With Inspiring Quotes:
-
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</details>
-
-<h2 align="center">🐍 Contribution Snake</h2>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/an618/an618/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/an618/an618/output/github-contribution-grid-snake.svg"/>
 </p>
 
+---
 
+## 🎯 Professional Focus
+
+- Designing secure & highly available cloud architectures  
+- Automating infrastructure provisioning using Terraform  
+- Building robust CI/CD pipelines  
+- Managing Kubernetes workloads in production  
+- Implementing GitOps workflows  
+- Improving system reliability & deployment efficiency  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 Open to Cloud & DevOps opportunities  
+- 🤝 Open to collaboration on cloud-native projects  
+
+---
+⭐ *Always learning, always automating, always improving.*
