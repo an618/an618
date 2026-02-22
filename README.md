@@ -29,18 +29,16 @@ I'm a **Cloud & DevOps Enthusiast** passionate about **Cloud Computing** and **D
 </p>
 
 
-# Github Activity📊:
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=an618&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an618&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr>
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=an618&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnkitSahu&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
-  </td>
-  </tr>
-</table>
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=an618&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an618&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=an618&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+</p>
 
 # Productivity Stats📈:
 <table>
