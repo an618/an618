@@ -55,5 +55,11 @@ I'm a **Cloud & DevOps Enthusiast** passionate about **Cloud Computing** and **D
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </details>
-~
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/an618/an618/output/github-contribution-grid-snake.svg" />
+</p>
+
 
