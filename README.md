@@ -25,9 +25,7 @@ I'm a **Cloud & DevOps Enthusiast** passionate about **Cloud Computing** and **D
 
 <h3 align="center">Visitor Count</h3>
 <p align="center">
-  <a href="https://profile-counter.glitch.me/an618/count.svg">
-    <img src="https://profile-counter.glitch.me/an618/count.svg" alt="Visitor Count"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=an618&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
 </p>
 
 
